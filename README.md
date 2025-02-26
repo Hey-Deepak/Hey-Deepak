@@ -9,7 +9,21 @@
 
 - 👯 I’m looking to collaborate on [KTP-Course](https://github.com/The-Streamliners/KTP-Course)
 
-- 🫠About Me :- **I am an Android Engineer and an Android Educator, where I use Modern Android Development (MAD) skills to teach aspiring developers and Create Solutions for Real World Users. Recently, I was working for Ubuy ( International eCommerce company ) where managing 80+ language, Multiple Payment Gateways with 170+ countries was very different experience. I invested 2 Years in Ubuy and 1 year in Ubuy Academy. I am also a co-founder and a program manager at The Streamliners an organization that builds MVPs for small startups using mobile-based solutions. I managed and maintained multiple projects with the help of PM tools, which saved 30-40% time of the organization. I also took proper action on critical situations and removed roadblocks from projects, which generated their sales growth. I built a whole team from scratch with the help of an Android engineer, and helped the organization to gain more users cumulatively. I am passionate about Agile and Lean Start-up methodologies, which help me to deliver valid products that address key social problems. I enjoy working on apps that challenge and inspire me, and that require me to switch from autopilot mode to active mode. I love to brainstorm, deal with different stakeholders, handle bugs, uncertainty, ups and downs, and feel like I am not working anymore. I am the combo of engineering, business, and UX. I want to connect with TPMs (Android) and Android Engineers so we can share opportunities and knowledge.**
+- 🫠About Me :- **Senior Android Engineer | Founder @ FaangX | Android Educator | Product Builder
+
+I am a Senior Android Engineer and Android Educator passionate about crafting high-quality mobile solutions and empowering developers with Modern Android Development (MAD) skills.
+
+Currently, I am building FaangX, an EdTech platform that focuses on real-world project-based learning The success metric of this initiative isn’t just engagement—it’s how many learners successfully build and deploy valid projects using our platform.
+
+Previously, I spent 2 years at Ubuy (an international eCommerce company), where I worked on an ecosystem supporting 80+ languages, multiple payment gateways, and operations in 170+ countries. Managing such large-scale applications gave me deep insights into global app scalability, localization, and multi-platform optimizations.
+
+I also co-founded The Streamliners, where I helped early-stage startups build MVPs using mobile-first solutions. My expertise in Agile and Lean Startup methodologies has allowed me to deliver impactful digital products while optimizing development workflows.
+
+Beyond engineering, I thrive in brainstorming product ideas, collaborating with stakeholders, and solving complex technical challenges. I believe that great apps are built at the intersection of engineering, business, and UX, and I enjoy working on solutions that challenge and inspire me.
+
+I’m actively looking for my next opportunity as a Senior Android Engineer, where I can contribute my Android expertise, leadership, and product vision to build innovative mobile experiences.
+
+Let's connect! 🚀**
 
 - 👨‍💻 All of my projects are available at [https://thestreamliners.in/](https://thestreamliners.in/)
 
