@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hey-deepak&label=Profile%20views&color=0e75b6&style=flat" alt="hey-deepak" /> </p>
 
-- 🔭 I’m currently working on [Connecting-Dot](https://github.com/Hey-Deepak/ConnectingDot)
+- 🔭 I’m currently working on [FaangX](https://play.google.com/store/apps/details?id=com.faangx.ktp)
 
 - 🌱 I’m currently learning **Modern Android Development + Compose MultiPlatform**
 
