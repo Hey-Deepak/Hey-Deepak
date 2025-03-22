@@ -1,49 +1,100 @@
-<h1 align="center">Hi 👋, I'm Deepak Choudhary</h1>
-<h3 align="center">Android Engineer - Freelancer || Android Educator & Mentor || Streamliner || Problem Solver</h3>
+# Deepak Choudhary 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hey-deepak&label=Profile%20views&color=0e75b6&style=flat" alt="hey-deepak" /> </p>
+### Android Engineer
 
-- 🔭 I’m currently working on [FaangX](https://play.google.com/store/apps/details?id=com.faangx.ktp)
+---
 
-- 🌱 I’m currently learning **Modern Android Development + Compose MultiPlatform**
+An **Engineer**, **Educator**, and an **Entrepreneurial Mindset Person** who practices **Software Engineering** (**MAD Skills**) in his daily life to **Build Valid Products**.
 
-- 👯 I’m looking to collaborate on [KTP-Course](https://github.com/The-Streamliners/KTP-Course)
+### 📧 Contact
 
-- 🫠About Me :- **Senior Android Engineer | Founder @ FaangX | Android Educator | Product Builder
+-   **Email:** choudharydeepak990@gmail.com
+-   **Phone:** +91 8432808299
+-   **LinkedIn:** https://www.linkedin.com/in/hey-deepak/
+-   **GitHub:** github.com/Hey-Deepak
+-   **Medium:** https://medium.com/@HeyDeepak
+-   **YouTube**: https://www.youtube.com/@faangx
+-   **Resume**: [Notion Link](https://grateful-lint-1e7.notion.site/Resume-Android-dfcdf5343dae42738ecdda215f6027bc?pvs=74)
 
-I am a Senior Android Engineer and Android Educator passionate about crafting high-quality mobile solutions and empowering developers with Modern Android Development (MAD) skills.
+---
+### 💼 Work Experience
 
-Currently, I am building FaangX, an EdTech platform that focuses on real-world project-based learning The success metric of this initiative isn’t just engagement—it’s how many learners successfully build and deploy valid projects using our platform.
+### Android Engineer
+#### The Streamliners (Remote)
+*The Streamliners is an organization in which real world problem solvers build MVPs for Small Startups using Mobile based solution.*
 
-Previously, I spent 2 years at Ubuy (an international eCommerce company), where I worked on an ecosystem supporting 80+ languages, multiple payment gateways, and operations in 170+ countries. Managing such large-scale applications gave me deep insights into global app scalability, localization, and multi-platform optimizations.
+• Led the **development and maintenance** of **10+ Android projects**, leveraging **PM**
+**Tools** to streamline workflows and reduce development time
+• Helped Organization to **gain** more than **100,000+ Users** cumulative.
+•Utilized **DroidLibs** to **optimize code, reducing redundancy** and **cutting lines of**
+**code by 30%**.
+• Led the **migration** from a **legacy MVP architecture** to **MVVM with Clean**
+**Architecture**, resulting in **improved code testability, maintainability**, and a
+**25-30% reduction** in **bug reports**.
 
-I also co-founded The Streamliners, where I helped early-stage startups build MVPs using mobile-first solutions. My expertise in Agile and Lean Startup methodologies has allowed me to deliver impactful digital products while optimizing development workflows.
+---
+### Android Engineer
+#### Ubuy.com (On-Site)
+*Ubuy is an international e-commerce company (D2C) that delivers products unavailable in your*
+*country, serving customers across 180+ countries.*
 
-Beyond engineering, I thrive in brainstorming product ideas, collaborating with stakeholders, and solving complex technical challenges. I believe that great apps are built at the intersection of engineering, business, and UX, and I enjoy working on solutions that challenge and inspire me.
+• More than **3 million +** people enjoying shopping from **Ubuy Android App**.
+• **Onboarded** and **Mentored 3 Junior Android Developers**.
+• Frequently **Released Major** and **Minor updates**.
+• Worked with **Right2Left(Eng)** and **Left2Right(Arabic)** Layout (**80+ Languages**).
+• Engineered **a real-time internet voice call** feature using **MAD** in **Legacy Code**.
+• Understood existing project **without KT** and Implemented new feature.
+• **Analytics tools** added like MixPanel, Microsoft Clarity, Appsflyer, FB Analytics.
+• Worked On **Multiple Payment Gateways** (Tamara, Benefit, CheckOut, Razor, Pal)
 
-I’m actively looking for my next opportunity as a Senior Android Engineer, where I can contribute my Android expertise, leadership, and product vision to build innovative mobile experiences.
+---
+### Android + Al Engineer
 
-Let's connect! 🚀**
+#### Learn In Public (Personal Project)
+*An Al-powered platform that helps users create and share "Learn in Public" posts across social media.*
 
-- 👨‍💻 All of my projects are available at [https://thestreamliners.in/](https://thestreamliners.in/)
+• Integrated Al models (Gemini) for content generation, smart post suggestions,
+and engagement optimization.
+• Building an Al-powered voice model to generate spoken content for
+accessibility and engagement.
+• Leveraging Al-driven image generation to create visually engaging posts for
+social media (Thumbnail).
+• Ktor + Mongo is used for Backend.
 
-- 📝 I regularly write articles on [https://medium.com/@HeyDeepak](https://medium.com/@HeyDeepak)
+---
+### Android Engineer
+#### Currency App (Project)
+*The app itself is a simple Currency app that fetches a data from a third-party API and caches that data locally. The app will be able to work even without an internet connection.*
+• Compose Multi-Platform Used to target 2 Platforms.
+• Targeting IOS and Android platform with Single codebase.
+• Ktor is used for Networking.
+• Mongo Realm is used for Local Caching instead Room DB
+• Beautiful and Animated UI with Custom Theming
 
-- 💬 Ask me about **MAD, JetCompose, Kotlin and KMP/CMP**
+### 🛠️ Skills
 
-- 📫 How to reach me **choudharydeepak990@gmail.com**
+| Modern Android Development                | Coroutine                  | Firebase & Mongo           | Figma                      | Java & Kotlin   |
+| ----------------------------------------- | -------------------------- | -------------------------- | -------------------------- | --------------- |
+| **UI/UX**                                 | **Compose Multi-Platform** | **OOPS**                   | **Functional Programming** | **Jet Compose** |
+| **Rest APIs (Retrofit & Okhttp)**         | **Multi-Module**           | **Functional Programming** | **Clean Architecture**     | **Ktor**        |
+| **Dependency Injection (Koin & Dagger/Hilt)** | **Gemini**                     | **Analytics**                  | **MVVM**                       | **GitHub**          |
 
-- 📄 Know about my experiences [https://grateful-lint-1e7.notion.site/Resume-Android-dfcdf5343dae42738ecdda215f6027bc?pvs=4](https://grateful-lint-1e7.notion.site/Resume-Android-dfcdf5343dae42738ecdda215f6027bc?pvs=4)
+**Soft Skills:**
+* Communication
+* Logical & Critical Thinking
+* Empathy
+* Entrepreneurship
+* Leadership
+---
+### 🏆 Achievements
 
-- ⚡ Fun fact **I love Project Management alongside Mobile App Development**
+• Incubated under Meity Startup Hub
+• TIDE 2.0 Finalist 
+• SIH 2019 Finalist
+• Google BFDI 2020 Finalist
+• JU Rythum 2019 Winner
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hey-deepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hey-deepak" height="30" width="40" /></a>
-<a href="https://medium.com/@heydeepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@heydeepak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/faangx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="faangx" height="30" width="40" /></a>
-</p>
-
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
