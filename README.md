@@ -49,27 +49,27 @@ An **Engineer**, **Educator**, and an **Entrepreneurial Mindset Person** who pra
 #### Learn In Public (Personal Project)
 *An Al-powered platform that helps users create and share "Learn in Public" posts across social media.*
 
-• Integrated Al models (Gemini) for content generation, smart post suggestions,
+• Integrated **Al models (Gemini)** for content generation, smart post suggestions,
 and engagement optimization.<br/>
-• Building an Al-powered voice model to generate spoken content for
+• Building an **Al-powered voice model** to generate spoken content for
 accessibility and engagement.<br/>
-• Leveraging Al-driven image generation to create visually engaging posts for
-social media (Thumbnail).<br/>
-• Ktor + Mongo is used for Backend.<br/>
+• Leveraging **Al-driven image generation** to create visually engaging posts for
+social media **(Thumbnail)**.<br/>
+• **Ktor** + **Mongo** is used for Backend.<br/>
 
 ---
 ### Android Engineer
 #### Currency App (Project)
 *The app itself is a simple Currency app that fetches a data from a third-party API and caches that data locally. The app will be able to work even without an internet connection.*
-• Compose Multi-Platform Used to target 2 Platforms.<br/>
-• Targeting IOS and Android platform with Single codebase.<br/>
-• Ktor is used for Networking.<br/>
-• Mongo Realm is used for Local Caching instead Room DB.<br/>
+• **Compose Multi-Platform** Used to **target 2 Platforms**.<br/>
+• **Targeting IOS and Android** platform with Single codebase.<br/>
+• **Ktor** is used for Networking.<br/>
+• **Mongo Realm** is used for Local Caching instead Room DB.<br/>
 • Beautiful and Animated UI with Custom Theming.<br/>
 
 ### 🛠️ Skills
 
-| Modern Android Development                | Coroutine                  | Firebase & Mongo           | Figma                      | Java & Kotlin   |
+|            |                   |          |                 |   |
 | ----------------------------------------- | -------------------------- | -------------------------- | -------------------------- | --------------- |
 | **Modern Android Development**            | **Coroutine**              | **Firebase & Mongo**       | **Figma**                  | **Java & Kotlin** |
 | **UI/UX**                                 | **Compose Multi-Platform** | **OOPS**                   | **Functional Programming** | **Jet Compose** |
