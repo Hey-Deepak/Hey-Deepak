@@ -85,11 +85,11 @@ social media **(Thumbnail)**.<br/>
 ---
 ### 🏆 Achievements
 
-• Incubated under Meity Startup Hub
-• TIDE 2.0 Finalist 
-• SIH 2019 Finalist
-• Google BFDI 2020 Finalist
-• JU Rythum 2019 Winner
+• Incubated under Meity Startup Hub </br>
+• TIDE 2.0 Finalist </br>
+• SIH 2019 Finalist </br>
+• Google BFDI 2020 Finalist </br>
+• JU Rythum 2019 Winner </br>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
