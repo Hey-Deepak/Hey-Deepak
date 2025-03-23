@@ -23,10 +23,10 @@ An **Engineer**, **Educator**, and an **Entrepreneurial Mindset Person** who pra
 #### The Streamliners (Remote)
 *The Streamliners is an organization in which real world problem solvers build MVPs for Small Startups using Mobile based solution.*
 
-• Led the **development and maintenance** of **10+ Android projects**, leveraging **PM** **Tools** to streamline workflows and reduce development time
-• Helped Organization to **gain** more than **100,000+ Users** cumulative.
-• Utilized **DroidLibs** to **optimize code, reducing redundancy** and **cutting lines of code by 30%**.
-• Led the **migration** from a **legacy MVP architecture** to **MVVM with Clean Architecture**, resulting in **improved code testability, maintainability**, and a **25-30% reduction** in **bug reports**.
+• Led the **development and maintenance** of **10+ Android projects**, leveraging **PM** **Tools** to streamline workflows and reduce development time.<br/>
+• Helped Organization to **gain** more than **100,000+ Users** cumulative.<br/>
+• Utilized **DroidLibs** to **optimize code, reducing redundancy** and **cutting lines of code by 30%**.<br/>
+• Led the **migration** from a **legacy MVP architecture** to **MVVM with Clean Architecture**, resulting in **improved code testability, maintainability**, and a **25-30% reduction** in **bug reports**.<br/>
 
 ---
 ### Android Engineer
