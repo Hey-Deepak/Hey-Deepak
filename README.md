@@ -34,14 +34,14 @@ An **Engineer**, **Educator**, and an **Entrepreneurial Mindset Person** who pra
 *Ubuy is an international e-commerce company (D2C) that delivers products unavailable in your*
 *country, serving customers across 180+ countries.*
 
-• More than **3 million +** people enjoying shopping from **Ubuy Android App**.
-• **Onboarded** and **Mentored 3 Junior Android Developers**.
-• Frequently **Released Major** and **Minor updates**.
-• Worked with **Right2Left(Eng)** and **Left2Right(Arabic)** Layout (**80+ Languages**).
-• Engineered **a real-time internet voice call** feature using **MAD** in **Legacy Code**.
-• Understood existing project **without KT** and Implemented new feature.
-• **Analytics tools** added like MixPanel, Microsoft Clarity, Appsflyer, FB Analytics.
-• Worked On **Multiple Payment Gateways** (Tamara, Benefit, CheckOut, Razor, Pal)
+• More than **3 million +** people enjoying shopping from **Ubuy Android App**.<br/>
+• **Onboarded** and **Mentored 3 Junior Android Developers**.<br/>
+• Frequently **Released Major** and **Minor updates**.<br/>
+• Worked with **Right2Left(Eng)** and **Left2Right(Arabic)** Layout (**80+ Languages**).<br/>
+• Engineered **a real-time internet voice call** feature using **MAD** in **Legacy Code**.<br/>
+• Understood existing project **without KT** and Implemented new feature.<br/>
+• **Analytics tools** added like MixPanel, Microsoft Clarity, Appsflyer, FB Analytics.<br/>
+• Worked On **Multiple Payment Gateways** (Tamara, Benefit, CheckOut, Razor, Pal)<br/>
 
 ---
 ### Android + Al Engineer
@@ -50,27 +50,28 @@ An **Engineer**, **Educator**, and an **Entrepreneurial Mindset Person** who pra
 *An Al-powered platform that helps users create and share "Learn in Public" posts across social media.*
 
 • Integrated Al models (Gemini) for content generation, smart post suggestions,
-and engagement optimization.
+and engagement optimization.<br/>
 • Building an Al-powered voice model to generate spoken content for
-accessibility and engagement.
+accessibility and engagement.<br/>
 • Leveraging Al-driven image generation to create visually engaging posts for
-social media (Thumbnail).
-• Ktor + Mongo is used for Backend.
+social media (Thumbnail).<br/>
+• Ktor + Mongo is used for Backend.<br/>
 
 ---
 ### Android Engineer
 #### Currency App (Project)
 *The app itself is a simple Currency app that fetches a data from a third-party API and caches that data locally. The app will be able to work even without an internet connection.*
-• Compose Multi-Platform Used to target 2 Platforms.
-• Targeting IOS and Android platform with Single codebase.
-• Ktor is used for Networking.
-• Mongo Realm is used for Local Caching instead Room DB
-• Beautiful and Animated UI with Custom Theming
+• Compose Multi-Platform Used to target 2 Platforms.<br/>
+• Targeting IOS and Android platform with Single codebase.<br/>
+• Ktor is used for Networking.<br/>
+• Mongo Realm is used for Local Caching instead Room DB.<br/>
+• Beautiful and Animated UI with Custom Theming.<br/>
 
 ### 🛠️ Skills
 
 | Modern Android Development                | Coroutine                  | Firebase & Mongo           | Figma                      | Java & Kotlin   |
 | ----------------------------------------- | -------------------------- | -------------------------- | -------------------------- | --------------- |
+| **Modern Android Development**            | **Coroutine**              | **Firebase & Mongo**       | **Figma**                  | **Java & Kotlin** |
 | **UI/UX**                                 | **Compose Multi-Platform** | **OOPS**                   | **Functional Programming** | **Jet Compose** |
 | **Rest APIs (Retrofit & Okhttp)**         | **Multi-Module**           | **Functional Programming** | **Clean Architecture**     | **Ktor**        |
 | **Dependency Injection (Koin & Dagger/Hilt)** | **Gemini**                     | **Analytics**                  | **MVVM**                       | **GitHub**          |
