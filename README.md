@@ -1,104 +1,37 @@
-# Deepak Choudhary 👋
+# Deepak Choudhary
 
-### Android Engineer
+**SDE 3 · Tech Lead, Client SDKs** at [VideoSDK](https://www.videosdk.live) · real-time video and voice · Rust core · AI agents
 
----
+- **Engineer:** 6+ years on Android; tech lead for VideoSDK's 4 client SDKs (Android, iOS, Flutter, React Native) on a shared Rust core.
+- **Educator:** co-founded [FaangX](https://faangx.com); trained developers through its Kotlin Training Program.
+- **Entrepreneur:** incubated under MeitY Startup Hub; now building Buddy, an AI-agent assistant.
 
-An **Engineer**, **Educator**, and an **Entrepreneurial Mindset Person** who practices **Software Engineering** (**MAD Skills**) in his daily life to **Build Valid Products**.
+## What I work on now
 
-### 📧 Contact
+**At VideoSDK.** The SDK repos are private, so here is the work in words. My work commits are on [@HiDeepakk](https://github.com/HiDeepakk).
+- Led the move of all 4 SDKs to one shared Rust core: Android 3.0, iOS 4.0, Flutter 5.0 and React Native 2.0 shipped the same day (Oct 2026). [Android release notes](https://docs.videosdk.live/android/guide/video-and-audio-calling-api-sdk/release-notes)
+- Shipped 22 Android SDK releases in 11 months and wrote 91% of their commits; top contributor to the Rust core.
+- Built GPU camera effects (auto-framing, low-light, styles) in Rust on OpenGL ES and Metal.
+- Rebranded libwebrtc's JNI layer so VideoSDK runs beside another WebRTC SDK in one app.
+- Added AI voice-agent support: agents join calls as participants with live state, metrics and transcripts.
 
--   **Email:** choudharydeepak990@gmail.com
--   **Phone:** +91 8432808299
--   **LinkedIn:** https://www.linkedin.com/in/hey-deepak/
--   **GitHub:** github.com/Hey-Deepak
--   **Medium:** https://medium.com/@HeyDeepak
--   **YouTube**: https://www.youtube.com/@faangx
--   **Resume**: [Notion Link](https://grateful-lint-1e7.notion.site/Resume-Android-dfcdf5343dae42738ecdda215f6027bc?pvs=74)
+**Agentic engineering.**
+- Built rusty, the SDK team's Claude Code plugin: 13 agents, 18 commands, 7 hooks and a 70-page wiki that triage, fix, build and test on real phones. 4 engineers merged 103 PRs into it in its first 4 weeks. (Private to the team.)
+- Building **Buddy**: you talk to your phone; a daemon on your PC spawns and supervises fleets of Claude Code agents that do the work. Kotlin Multiplatform, Ktor, Koog, MCP, A2A. Overview: [Hey-Buddy](https://github.com/Hey-Deepak/Hey-Buddy) (source private for now).
 
----
-### 💼 Work Experience
+## Public code
 
-### Android Engineer
-#### The Streamliners (Remote)
-*The Streamliners is an organization in which real world problem solvers build MVPs for Small Startups using Mobile based solution.*
+- [Murmur-rs](https://github.com/Hey-Deepak/Murmur-rs): on-device audio AI pipeline in Rust (decode, diarization, Whisper STT) for Android over JNI; decode 73.5× and diarization 4.3× faster than the Kotlin version.
+- [Murmur](https://github.com/Hey-Deepak/Murmur): the Android app on top of it; transcribes on-device and analyzes the day with Claude.
+- [Lipu](https://github.com/Hey-Deepak/Lipu): AI-powered "Learn in Public" post builder (Gemini, Ktor, MongoDB).
+- [CMP-CurrencyApp](https://github.com/Hey-Deepak/CMP-CurrencyApp): Compose Multiplatform app for Android and iOS from one codebase.
 
-• Led the **development and maintenance** of **10+ Android projects**, leveraging **PM** **Tools** to streamline workflows and reduce development time.<br/>
-• Helped Organization to **gain** more than **100,000+ Users** cumulative.<br/>
-• Utilized **DroidLibs** to **optimize code, reducing redundancy** and **cutting lines of code by 30%**.<br/>
-• Led the **migration** from a **legacy MVP architecture** to **MVVM with Clean Architecture**, resulting in **improved code testability, maintainability**, and a **25-30% reduction** in **bug reports**.<br/>
+## Writing and teaching
 
----
-### Android Engineer
-#### Ubuy.com (On-Site)
-*Ubuy is an international e-commerce company (D2C) that delivers products unavailable in your*
-*country, serving customers across 180+ countries.*
+[Medium](https://medium.com/@HeyDeepak) · [FaangX](https://faangx.com) · [YouTube](https://www.youtube.com/@faangx)
 
-• More than **3 million +** people enjoying shopping from **Ubuy Android App**.<br/>
-• **Onboarded** and **Mentored 3 Junior Android Developers**.<br/>
-• Frequently **Released Major** and **Minor updates**.<br/>
-• Worked with **Right2Left(Eng)** and **Left2Right(Arabic)** Layout (**80+ Languages**).<br/>
-• Engineered **a real-time internet voice call** feature using **MAD** in **Legacy Code**.<br/>
-• Understood existing project **without KT** and Implemented new feature.<br/>
-• **Analytics tools** added like MixPanel, Microsoft Clarity, Appsflyer, FB Analytics.<br/>
-• Worked On **Multiple Payment Gateways** (Tamara, Benefit, CheckOut, Razor, Pal)<br/>
+## Contact
 
----
-### Android + Al Engineer
+[LinkedIn](https://www.linkedin.com/in/hey-deepak) · choudharydeepak990@gmail.com
 
-#### Learn In Public (Personal Project)
-*An Al-powered platform that helps users create and share "Learn in Public" posts across social media.*
-
-• Integrated **Al models (Gemini)** for content generation, smart post suggestions,
-and engagement optimization.<br/>
-• Building an **Al-powered voice model** to generate spoken content for
-accessibility and engagement.<br/>
-• Leveraging **Al-driven image generation** to create visually engaging posts for
-social media **(Thumbnail)**.<br/>
-• **Ktor** + **Mongo** is used for Backend.<br/>
-
----
-### Android Engineer
-#### Currency App (Project)
-*The app itself is a simple Currency app that fetches a data from a third-party API and caches that data locally. The app will be able to work even without an internet connection.*
-• **Compose Multi-Platform** Used to **target 2 Platforms**.<br/>
-• **Targeting IOS and Android** platform with Single codebase.<br/>
-• **Ktor** is used for Networking.<br/>
-• **Mongo Realm** is used for Local Caching instead Room DB.<br/>
-• Beautiful and Animated UI with Custom Theming.<br/>
-
-### 🛠️ Skills
-
-|            |                   |          |                 |   |
-| ----------------------------------------- | -------------------------- | -------------------------- | -------------------------- | --------------- |
-| **Modern Android Development**            | **Coroutine**              | **Firebase & Mongo**       | **Figma**                  | **Java & Kotlin** |
-| **UI/UX**                                 | **Compose Multi-Platform** | **OOPS**                   | **Functional Programming** | **Jet Compose** |
-| **Rest APIs (Retrofit & Okhttp)**         | **Multi-Module**           | **Functional Programming** | **Clean Architecture**     | **Ktor**        |
-| **Dependency Injection (Koin & Dagger/Hilt)** | **Gemini**                     | **Analytics**                  | **MVVM**                       | **GitHub**          |
-
-**Soft Skills:**
-* Communication
-* Logical & Critical Thinking
-* Empathy
-* Entrepreneurship
-* Leadership
----
-### 🏆 Achievements
-
-• Incubated under Meity Startup Hub </br>
-• TIDE 2.0 Finalist </br>
-• SIH 2019 Finalist </br>
-• Google BFDI 2020 Finalist </br>
-• JU Rythum 2019 Winner </br>
-
----
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hey-deepak&show_icons=true&locale=en&layout=compact" alt="hey-deepak" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hey-deepak&show_icons=true&locale=en" alt="hey-deepak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hey-deepak&" alt="hey-deepak" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hey-deepak" alt="hey-deepak" /></a> </p>
+Open to SDE 3 / Tech Lead roles in client SDKs, real-time communication and AI agents. Remote OK.
